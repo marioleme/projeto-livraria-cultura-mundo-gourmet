@@ -1,0 +1,33 @@
+*{margin:0;padding:0;outline:none}
+body{font-family:Arial, "roboto", Helvetica, sans-serif;color:#000;padding:0;margin:0}
+ul{list-style:none;margin:0;padding:0}
+a{text-decoration:none}
+hr{display:none}
+img{vertical-align:middle;border:none}
+fieldset{border:none;margin:0;padding:0}
+select{padding:5px;border:1px solid #AAA}
+select:focus{border-color:#000}
+::selection{background-color:#444;color:#FFF;text-shadow:1px 1px 1px #000}
+::-moz-selection{background-color:#444;color:#FFF;text-shadow:1px 1px 1px #000}
+.content{border:none;padding:0}
+.menuInstitucional{float: left; position: relative; margin-top: 82px; clear: both;}
+ .menuInstitucional li{/* padding-top:40px; */text-align:center;width: 240PX;height: 145PX;float: left;border: 1px solid;margin-right: 8px;}
+.menuInstitucional li:first-child{padding-top:0}
+.menuInstitucional a{color:#707173;font-size:12px;line-height:16px;font-weight:bold;text-transform:uppercase}
+.menuInstitucional a:hover{color:#8a2237}
+.infoLine{float:right;width:813px;  margin-left:10px; }
+.infoInauguracao{float:left;width:43%}
+.infoInauguracao h4{font-size:20px;line-height:25px;color:#8a2237;font-weight:normal}
+.infoInauguracao p{color:#636363;font-size:12px;line-height:18px;margin-top:10px}
+
+.menuInstitucional li .mostrar{display: none;}
+.menuInstitucional li:hover .mostrar{ color: #fff;display: block;background:url(/arquivos/bg_hover.png);  position: absolute;top: 0px;width: 242px; height: 145px;}
+p.link {width: 242px; position: absolute; bottom: 0px; height: 35px; line-height: 35px; color:#f0ff00;}
+.mostrar h4 { padding-top: 14px;padding-bottom: 20px; font-weight: bold; font-size: 12px; text-transform: uppercase;}
+.mostrar p.hover{ font-size: 12px; font-weight: 100; padding: 0px; line-height: 13px;}
+h2.Titulo {border-bottom: 1px solid #999999; line-height: 47px; font-size: 25px;}
+div.imglojabig {margin-top: 20px; float: left; width: 681px; height: 368px; }
+ div.descicaoloja {width: 280px; float: right; height: 400px;margin-top: 20px; }
+.descicaoloja h3 {font-size: 18px; color: #195eb6; font-weight: bold; text-transform: uppercase; }
+.descicaoloja p {font-size: 12px; padding-top: 10px; line-height: 20px; color: #adadad; border-bottom: 1px solid; padding-bottom: 20px; }
+.endereco h3{padding-top: 9px; text-align: left; color: #ef2e35;}
