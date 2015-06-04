@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,300italic,300,200italic,200,900,700italic,700,600,400italic,600italic);
+
+body {background-color: #eeeced;font-family: 'Titillium Web', sans-serif;}
+ul , li {padding: 0; }
+#container{width: 980px; margin: 0 auto;}
+#header{height: 347px; margin-top: 30px;width: 980px;}
+.manifestologo{background: url("../img/logo.png"); background-repeat: no-repeat;width: 290px;height:309px ;  float: left; text-indent: 9px;margin-right: 67px;margin-top: 14px;margin-left: 19px;}
+h1.logos{text-indent: -999px;font-size: 0px;padding: 0;margin: 0;}
+.titulo {background:url("../img/titulo.png"); background-repeat: no-repeat;width: 600px;height: 52px;  float: left; text-indent: -990px;}
+.subtitulo{width: 600px; height: 310px; float: left;}
+.txtPrincipal {font-size: 20px; font-weight: normal; color: #636363 ;padding-top: 41px;width: 570px;margin-bottom: 2px;}
+.txtPrincipal strong {font-size: 20px; font-weight: bold;color: #f26522;}
+ul li {list-style: none;}
+.titulofooter  {background: url("../img/Subtitulo.png"); background-repeat: no-repeat;width: 333px;height: 80px;  float: left; text-indent: -990px; float: left;font-size: 0;margin-top: -42px; margin-left: 90px;}
+.btagora a {/* background:url("btleiaManifesto.png"); */ /* background-repeat: no-repeat; *//* width: 248px; */height:40px ;  float: left; /* text-indent: -990px; */float: right;margin-left: 23px;line-height: 83px;}
+.bannerPrincipal {width: 100% ; height: 438px; background:url("../img/fundoMovie.png"); background-repeat: repeat-x;/* margin-bottom: 50px; */}
+.moviecleae { cursor: pointer; width: 985px; height: 438px; background:url("../img/movie.png"); background-repeat:  no-repeat; margin: 0 auto;}
+.textcenter {font-size: 30px; font-weight: bold;color: #f26522; width: 294px;text-align: left; line-height: 40px;/* margin-top: 85px; */}
+h2.textcenter span {font-size: 110px; line-height: 73px; float: right; margin-right: 58px; margin-top: -40px;}
+.main{width: 980px; margin: 0 auto; position: relative; height: 783px;margin-top: 62px;}
+.ulcursos{position: absolute;  width: 980px;top: 6px;left: 87px;}
+li.cursos.gerenteEcomerce {float: left; margin-right: 9px; margin-left: 307px; }
+li.cursos.ecommercemoda {float: left; margin-right: 9px; margin-left: 208px; margin-top: -50px; }
+li.cursos.gestaomarketing {float: left; margin-right: 9px; margin-top: -49px; }
+li.cursos.contentMarketing {margin-top: -47px; }
+li.cursos.gerenteMidias {}
+li.cursos.emailmarketing {float: left; clear: left; margin-right: 9px; margin-left: 109px; margin-top: -49px; }
+li.cursos.marketingdigital {float: left; margin-right: 9px; margin-top: -49px; }
+li.cursos.googleProf {float: left; margin-right: 9px; margin-top: -49px; } 
+li.cursos.facebookMarketing {float: left; margin-top: -49px; }
+li.cursos.Analytics{clear: left; }
+li.cursos.emailmarketing {float: left; clear: left; margin-right: 9px; margin-left: 107px; margin-top: -51px; } 
+li.cursos.marketingdigital {float: left; margin-right: 9px; margin-top: -53px; }
+li.cursos.googleProf {float: left; margin-right: 9px; margin-top: -52px; }
+li.cursos.facebookMarketing {/* float: left; */ margin-top: -51px; }
+li.cursos.Analytics {clear: left; float: left; margin-right: 9px; margin-top: -51px; margin-left: 8px; } 
+li.cursos.seo {float: left; margin-right: 8px; margin-top: -50px; } 
+li.cursos.adwords {float: left; margin-right: 9px; margin-top: -52px; } 
+li.cursos.redesocial {float: left; margin-top: -50px; } 
+.ulcursos li a {/* opacity: 0.7; */}
+.ulcursos li a:hover {opacity: 1;}
+div#inline  div.popup_content  body {overflow-y: hidden !important; } 
+.titulofooters .tituloimg {width: 621px; height: 123px; text-indent: -999;background:url("../img/tituloFooter.png"); background-repeat: no-repeat; clear:left; text-indent: -999px;font-size: 0;}
+ul.linksfooterli li a img {float: left; } 
+ul.linksfooterli {width: 100%; padding:0px;margin-bottom: 40px; } 
+ul.linksfooterli li a img:hover{opacity: 0.6;}
+.subtitulofooter .subtitulo  {width: 980px; height: 67px; text-indent: -999;background:url("../img/subFooterTitulo.png"); background-repeat: no-repeat; clear:left; text-indent: -999px;float: left;margin-top: 4px;font-size: 0px;}
+div.facebook {width: 480px; background-color: #fff;; clear: left; float: left; margin-right: 51px; margin-top: 34px; }
+#gerente{width: 400px; height: 200px; background-color: #fff; display: none;} 
+#gerente h2{text-transform: uppercase; color: #eb7130; font-size: 40px;}
+div#basic-modal-content {background-color: #fff; width: 874px; border: 1px solid #eb7130; padding-left: 31px; padding-top: 40px; padding-right: 32px; height: 450px; display: none; }
+div#simplemodal-overlay{background-color: #000;}
+a.modalCloseImg.simplemodal-close {background: url("../img/fechar_popup.png"); background-repeat: no-repeat; width: 50px; height: 52px; position: absolute; right: -24px; top: -29px; cursor: pointer; }
+div#basic-modal-content h3 {text-transform: uppercase; font-weight: bold; font-size: 40px; color: #eb7130; margin: 0; padding: 0px; } 
+div#basic-modal-content h4 ,div#basic-modal-content h5 {text-transform: uppercase; font-weight: bold; font-size: 30px; padding: 0px; margin: 0; }
+ul.tabelaValores li {border-bottom: 1px dashed #666; width: 170px; text-align: center; background: url("../img/bg-right.png") right; background-repeat: no-repeat; line-height: 50px; height: 50px; }
+li.valor.rignt {text-align: left; color: #363636; }
+li.valor.laranha {font-weight: bold; color: #f26522; }
+strong.valor {color: #005826; font-size: 25px; } 
+li.valor.laranha big {font-size: 25px !important; } 
+li.valor.titulos {color: #898988; } 
+li.valor {color: #898989; } 
+li.valor .ultimo {border-bottom: none; }
+ul.tabelaValores li .border {background: none; } 
+li.valor.laranha.ultimo {border-bottom: none; } 
+li.valor.rignt.ultimo {border-bottom: none; }
+li.valor.ultimo {border-bottom: none; }
+li.valor.titulos.border {background: none; }
+li.valor.border {background: none; }
+.finalizarComprar a.buy{background:url("../img/buy.png"); background-repeat: no-repeat;width: 233px;height:40px ;  float: left; font-size: 0px;text-indent: -999px;}
+.finalizarComprar {clear: left; float: right;}
+li.socialicon {float: left; margin-right: 5px; }
+li.socialicon a:hover {opacity: 0.7; } 
+ul.socialicon {margin-top: 48px; width: 410px;margin-left: -2px;float: left;}
+.tabelaValores {float: left;}
