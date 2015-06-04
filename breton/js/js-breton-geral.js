@@ -1,0 +1,1 @@
+function Geral(n){function e(){i()}function i(n){var n=$(n);n.find("li").length>3&&n.jcarousel({wrap:"last",visible:3,scroll:3})}e(n)}window.Uber_instances={},$(document).ready(function(){window.Uber_instances.Geral=new Geral});

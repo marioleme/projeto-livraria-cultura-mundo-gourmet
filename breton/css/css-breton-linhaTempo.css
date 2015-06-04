@@ -1,0 +1,84 @@
+*{margin:0;padding:0;outline:none}
+body{font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;color:#000;padding:0;margin:0}
+ul{list-style:none;margin:0;padding:0}
+a{text-decoration:none}
+hr{display:none}
+img{vertical-align:middle;border:none}
+fieldset{border:none;margin:0;padding:0}
+select{padding:5px;border:1px solid #AAA}
+select:focus{border-color:#000}
+::selection{background-color:#444;color:#FFF;text-shadow:1px 1px 1px #000}
+::-moz-selection{background-color:#444;color:#FFF;text-shadow:1px 1px 1px #000}
+.content{border:none;padding:0}
+.menuInstitucional{float:left;padding:40px 8px;border:1px solid #eaeaea}
+.menuInstitucional li{padding-top:40px;text-align:center}
+.menuInstitucional li:first-child{padding-top:0}
+.menuInstitucional a{color:#707173;font-size:12px;line-height:16px;font-weight:bold;text-transform:uppercase}.menuInstitucional a:hover{color:#8a2237}
+.infoLine{float:right;width:800px; padding-top: 40px; margin-left:14px; }
+.infoInauguracao{float:left;width:43%}
+.infoInauguracao h4{font-size:20px;line-height:25px;color:#8a2237;font-weight:normal}
+.infoInauguracao p{color:#636363;font-size:12px;line-height:18px;margin-top:10px}
+.infoVideo{float:right;border:1px solid #eaeaea;width:395px;height:248px;padding:20px;margin-bottom:20px}
+.infoVideo_a{float:right;border:0;width:395px;height:248px;margin-bottom:20px}
+.infoVideo_a p{color: #313131; font-size: 10px; line-height: 15px; margin-top: 8px;}
+ .infoVideo iframe{width:100%;height:100%}
+.infoFotos{padding:20px;border:1px solid #eaeaea;clear:both}
+.infoPictures{clear:both;margin-top:37px;}
+.infoPictures:after{content:"";display:table;clear:both}
+.infoPictures:first-child{margin-top:0}
+.infoPictures li{float:left;margin-left:21px;width:237px}
+.infoPictures li:first-child{margin-left:0}
+.infoPictures p{color:#313131;font-size:10px;line-height:15px;margin-top:8px}
+.infoPictures p strong{text-transform:uppercase}
+#dates {position: relative; ;width: 808px; height: 71px;  background-image: url('../img/linhatempobg.png');}
+#dates .active li  a , #dates > li a {float: left;position:absolute;font-size: 16px; color: #000; font-weight: 200; cursor: pointer;}
+#dates > li a:hover{font-weight: bold;color: #892337}
+.a1967{ top: 48px; left: 59px;}
+.a1978{ left: 134px;}
+.a1984{left: 208px; top:47px;}
+.a1988{left: 255px;}
+.a1999{left: 302px; top:54px;}
+.a2000{left: 371px;}
+.a2001{left: 450px; top:52px;}
+.a2002{left: 499px;}
+.a2004{left: 567px; top:53px;}
+.a2006{left: 611px;}
+.a2007{top: 51px; left: 689px;}
+ .a2009{left: 737px; top: 1px; }
+ .a2014{top: 51px; left: 776px;}
+ul.tabs {position: relative; }
+ul.tabs li {float: left;position:absolute;font-size: 16px; color: #000; font-weight: 200; }
+ ul.tabs li:hover {background: #fef7f6; opacity: 0.5; }
+.tab_container {border: 0px solid #999999; border-top: none; clear: both; float: left; width: 100%; }
+.tab_content {padding: 40px 0 0 0; display: none;}
+.content h2{padding-bottom: 34px; font-weight: 200; font-size: 32px; color: #8a2237}
+.contenLineTime h1 , .tab_content h1{ font-size: 20px; line-height: 25px; color: #8a2237; font-weight: normal; padding-bottom: 15px; }
+div.infoLine {position: relative; }
+.timeline {position: absolute; width: 50px; height: 3px; background: rgba(0, 0, 0, 0.48);transition: width 0.5s; }
+.timeline, .timeline[rel="tab1"] {top: 33px; left: 0; width: 30px }
+.timeline[rel="tab2"] {top: 32px; left: 0; width: 82px; }
+.timeline[rel="tab3"] {top: 33px; left: 0; width: 151px; }
+.timeline[rel="tab4"] {top: 33px; left: 0; width: 226px; }
+.timeline[rel="tab5"] {top: 33px; left: 0; width: 271px; }
+.timeline[rel="tab6"] {top: 33px; left: 0; width: 319px; }
+.timeline[rel="tab7"] {top: 33px; left: 0; width: 390px; }
+.timeline[rel="tab8"] {top: 33px; left: 0; width: 467px;}
+.timeline[rel="tab9"] {top: 33px; left: 0; width: 513px; }
+.timeline[rel="tab10"] {top: 33px; left: 0; width: 584px; }
+.timeline[rel="tab11"] {top: 33px; left: 0; width: 633px; }
+.timeline[rel="tab13"] {top: 33px; left: 0; width: 753px; }
+.timeline[rel="tab12"] {top: 33px; left: 0; width: 704px; } 
+.timeline[rel="tab14"] {top: 33px; left: 0; width: 808px; }
+
+
+.timeline[rel="tad1"] {top: 33px; left: 0; width: 40px; }
+.timeline[rel="tad2"] {top: 33px; left: 0; width: 80px; }
+.timeline[rel="tad3"] {top: 33px; left: 0; width: 155px; }
+.timeline[rel="tad4"] {top: 33px; left: 0; width: 225px; }
+.timeline[rel="tad5"] {top: 33px; left: 0; width: 270px; }
+a.b2006 {left: 0px;}
+a.b2007 {left: 66px;  top: 49px;}
+a.b2010{left: 134px; }
+a.b2012 {left: 207px; top: 49px;}
+a.b2013 {left: 250px; }
+#rel4 #dates {position: relative; width: 272px; height: 71px; background-image: url('../img/linhatempobg.png'); margin: 0 auto; }
